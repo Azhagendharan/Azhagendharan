@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azhagendharan
 - 👀 I’m interested in coding and electronics.
-- 🌱 I’m currently learning c++, python and Web Development.
+- 🌱 I’m currently learning c++, python, machine learning and Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me at azhagendharancode@gmail.com
 
